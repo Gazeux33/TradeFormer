@@ -1,0 +1,8 @@
+numpy~=1.26.3
+torch~=2.4.1+cu124
+matplotlib~=3.9.2
+pandas~=2.2.3
+requests~=2.32.3
+scikit-learn~=1.5.2
+alpaca~=1.0.0
+tqdm~=4.66.5
